@@ -131,7 +131,3 @@ The model was able to correctly guess 3 of the 5 traffic signs, which gives an a
 By oberserving the result of 5 largest probability using the top_k function. Aheadonly, wildanimal and noentry sign are correctly classified with the probabilites of 100%,99% and 100% respectively. whereas pedestrian and bicycle are misclassified. 
 
 
-### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
-#### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
-
-
